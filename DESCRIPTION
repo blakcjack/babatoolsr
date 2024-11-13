@@ -1,0 +1,12 @@
+Package: babatoolsr
+Title: Tools for Analysis
+Version: 0.1.0
+Authors@R: 
+    person("Suberlin", "Sinaga", , "suberlinsinaga@gmail.com", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0009-0004-6330-0032"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: ggplot2, dplyr, methods, forcats
+RoxygenNote: 7.3.2
